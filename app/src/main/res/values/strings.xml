@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="r">Registration Form</string>
+    <string name="n">Full Name: </string>
+    <string name="fn">First Name</string>
+    <string name="ln">Last Name</string>
+    <string name="g">Gender: </string>
+    <string name="m">Male</string>
+    <string name="f">Female</string>
+    <string name="ID">Student ID: </string>
+    <string name="Sch">School:</string>
+    <string name="E">E-mail: </string>
+    <string name="p">Phone Number:</string>
+    <string name="r2">Register</string>
+</resources>
